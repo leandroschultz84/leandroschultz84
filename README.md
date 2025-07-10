@@ -9,7 +9,7 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandroschultz84)
 
 
-![!Leandro Schultz GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroschultz84&show_icons=true&theme=transparent)
+![!Leandro Schultz GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroschultz84&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)
 
 ## Tecnologias:
 <div style="display: inline_block"><br/>
