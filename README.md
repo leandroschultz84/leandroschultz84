@@ -2,7 +2,6 @@
 
 - 🔭Hoje trabalho como Analista de Suporte em TI 
 - 🌱 Estudando Html, Css, JavaScript E React
-- 😄 Pronouns: ele/dele
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-schultz-aa511924)
