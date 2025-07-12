@@ -1,8 +1,6 @@
 ## Olá! Eu me chamo Leandro Schultz 🖥️
 
 - 🔭Hoje trabalho como Analista de Suporte em TI 
-- 🌱 Estudando Html, Css, JavaScript E React
-
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-schultz-aa511924)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandroschultz84)
