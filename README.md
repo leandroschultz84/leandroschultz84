@@ -1,5 +1,6 @@
 ## Olá! Eu me chamo Leandro Schultz 🖥️
 
+
 - 🔭Hoje trabalho como Analista de Suporte em TI 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-schultz-aa511924)
