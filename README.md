@@ -28,3 +28,14 @@ Analista de Suporte em TI.
 Atualmente trabalho como Analista de Suporte em TI, onde venho lidando com resolução de problemas técnicos, atendimento a usuários e ambiente corporativo. Tenho me dedicado à transição de carreira para área de desenvolvimento web, estudando HTML, CSS, JavaScript e frameworks modernos como Angular e biblioteca React. 
 Estou em busca de oportunidades para aplicar esses conhecimentos e crescer como desenvolvedor. 
 
+  ## 📌 Objetivo
+
+Apresentar minhas habilidades e evolução como Desenvolvedor Front-End, além de servir como vitrine para oportunidades profissionais e conexões na área de tecnologia.
+
+## 📫 Contato
+
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/leandro-schultz-aa511924) ou enviar um e-mail para: **recompensa.suporte@gmail.com**
+
+---
+
+Obrigado por visitar meu repositório! 🚀
