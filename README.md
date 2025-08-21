@@ -25,7 +25,7 @@
 ## Sobre o autor:
 Analista de Suporte em TI.
 
-Atualmente trabalho como Analista de Suporte em TI, onde venho lidando com resolução de problemas técnicos, atendimento a usuários e ambiente corporativo. Tenho me dedicado à transição de carreira para área de desenvolvimento web, estudando HTML, CSS, JavaScript e frameworks modernos como Angular e biblioteca React. 
+Atualmente trabalho como Analista de Suporte em TI, onde venho lidando com resolução de problemas técnicos, atendimento a usuários e ambiente corporativo. Tenho me dedicado à transição de carreira para área de desenvolvimento web, estudando HTML, CSS e JavaScript juntamente com frameworks modernos como Angular e biblioteca React. 
 Estou em busca de oportunidades para aplicar esses conhecimentos e crescer como desenvolvedor. 
 
   ## 📌 Objetivo
