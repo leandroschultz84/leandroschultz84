@@ -1,13 +1,13 @@
 ## Olá! Eu me chamo Leandro Schultz 🖥️
 
 
-🔭Hoje trabalho como Analista de Suporte em TI 
+Hoje trabalho como Analista de Suporte em TI 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-schultz-aa511924)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandroschultz84)
 
 
-![!Leandro Schultz GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroschultz84&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=highcontrast)
+
 
 
 
@@ -28,11 +28,11 @@ Analista de Suporte em TI.
 Atualmente trabalho como Analista de Suporte em TI, onde venho lidando com resolução de problemas técnicos, atendimento a usuários e ambiente corporativo. Tenho me dedicado à transição de carreira para área de desenvolvimento web, estudando HTML, CSS e JavaScript juntamente com frameworks modernos como Angular e biblioteca React. 
 Estou em busca de oportunidades para aplicar esses conhecimentos e crescer como desenvolvedor. 
 
-  ## 📌 Objetivo
+  ## Objetivo
 
 Apresentar minhas habilidades e evolução como Desenvolvedor Front-End, além de servir como vitrine para oportunidades profissionais e conexões na área de tecnologia.
 
-## 📫 Contato
+## Contato
 
 Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/leandro-schultz-aa511924) ou enviar um e-mail para: **recompensa.suporte@gmail.com**
 
