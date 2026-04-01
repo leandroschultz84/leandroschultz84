@@ -1,4 +1,4 @@
-## Olá! Eu me chamo Leandro Schultz 🖥️
+## Olá! Eu me chamo Leandro Schultz 
 
 
 Atualmente trabalho como Analista de Suporte em TI 
