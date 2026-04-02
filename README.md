@@ -3,12 +3,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=26&center=true&vCenter=true&width=800&lines=Leandro+Schultz;Desenvolvedor+Front-End;Criando+interfaces+modernas+e+responsivas" />
 </p>
 
+<p align="center">
+  🚀 Focado em evoluir através de projetos reais e soluções práticas
+</p>
+
 ---
 
-<h1 align="center">👨‍💻 Leandro Schultz</h1>
+<h1 align="center"> Leandro Schultz</h1>
 
 <p align="center">
-  Desenvolvedor Front-End em transição • Projetos reais • Foco em experiência do usuário
+  Desenvolvedor Front-End • Interfaces modernas • Experiência do usuário
 </p>
 
 <p align="center">
@@ -58,9 +62,9 @@ Website institucional para cafeteria com interface elegante e experiência focad
 
 ## 💼 Sobre mim
 
-Atuo como Analista de Suporte em TI, com experiência em resolução de problemas e ambientes corporativos.
+Atuo como Analista de Suporte em TI, com forte experiência em resolução de problemas e ambientes corporativos.
 
-Atualmente estou em transição para Desenvolvimento Front-End, desenvolvendo interfaces modernas, responsivas e funcionais com foco na experiência do usuário.
+Atualmente desenvolvo interfaces modernas e responsivas, aplicando boas práticas de front-end e foco na experiência do usuário.
 
 ---
 
